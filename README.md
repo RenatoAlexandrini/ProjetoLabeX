@@ -10,10 +10,22 @@ Projeto LabeX
 
 ![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
+<hr>
+<h4>
+ - O Projeto LabeX tem como função principal inserir a lógica de autenticação de token no React-js e reforçar que foi aprendido até o momento em consumo de APIs, componetização e na utilização de hooks.
+ </h4>
+  <h4>
+ - Utilizando uma API fornecida pela Labenu, o projeto simula um site de viagens espaciais, onde um usuário padrão que não possui uma conta, tem acesso as viagens e pode se candidatar a uma vaga para a viagen, enquanto quem possui uma conta, tem acesso a funcionalidades de administrador, como criar viagens, e aprovar candidatos para elas.
+</h4>
+<hr>
 
-<h3>
-.
+COMO TESTAR
+
+link do surge e senha e abaixo, ensinar a clonar e rodar o projeto.
 Login/senha:
 re.alexandrini@gmail.com
 123456
-  </h3>
+
+link do surge:
+divergent-attraction.surge.sh
+
