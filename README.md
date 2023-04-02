@@ -18,7 +18,7 @@ Projeto LabeX
  - Utilizando uma API fornecida pela Labenu, o projeto simula um site de viagens espaciais, onde um usuário padrão que não possui uma conta, tem acesso as viagens e pode se candidatar a uma vaga para a viagen, enquanto quem possui uma conta, tem acesso a funcionalidades de administrador, como criar viagens, e aprovar candidatos para elas.
 </h4>
 <hr>
-<h4>
+<h3>
 <img src="https://user-images.githubusercontent.com/102265620/229319779-62fac4c0-8813-492f-8dcd-e1a8d144eda5.png" width="30" height="30"/>
 Como Testar
 <br></br>
@@ -29,7 +29,7 @@ https://divergent-attraction.surge.sh/
 	:pouting_man: Login:  re.alexandrini@gmail.com
 
 :key: Senha: 123456
-</h4>
+</h3>
 
 ```
 - git clone https://github.com/RenatoAlexandrini/ProjetoLabeX
@@ -37,11 +37,11 @@ https://divergent-attraction.surge.sh/
 - npm start
 ```
 <hr>
-<h4>
+<h3>
 <img src="https://user-images.githubusercontent.com/102265620/229322799-e589f75f-4075-4fec-8e41-9da4c6215312.png" width="30" height="30"/>
 Funcionalidades:
 <br></br>
-</h4>
+</h3>
 <h3>
 :man_astronaut: Página da lista das viagens para usuários não autenticados:
 <br></br>
@@ -84,9 +84,11 @@ Funcionalidades:
 - ``Javascript``
 </h4>
 <hr>
-# Autor
-|[<img src="https://avatars.githubusercontent.com/u/102265620?v=4" width=115>|<br><sub>Renato Alexandrini</sub>](https://github.com/RenatoAlexandrini)|
-|---|
+<h3>
+:man_technologist:Autor
+</h3>
 
+| [<img src="https://avatars.githubusercontent.com/u/102265620?v=4" width=115><br><sub>Renato Alexandrini</sub>](https://github.com/RenatoAlexandrini) | 
+| :---: |
 
 
