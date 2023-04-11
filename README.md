@@ -12,10 +12,10 @@ Projeto LabeX
 
 <hr>
 <h4>
- - O Projeto LabeX tem como função principal inserir a lógica de autenticação de token no React-js e reforçar que foi aprendido até o momento em consumo de APIs, componetização e na utilização de hooks.
+ <img src="https://user-images.githubusercontent.com/102265620/231240933-08aab61f-6f83-47d5-a490-65ea085dccf6.png" width="25" height="25"/> O Projeto LabeX tem como função principal inserir a lógica de autenticação de token no React-js e reforçar que foi aprendido até o momento em consumo de APIs, componetização e na utilização de hooks.
  </h4>
   <h4>
- - Utilizando uma API fornecida pela Labenu, o projeto simula um site de viagens espaciais, onde um usuário padrão que não possui uma conta, tem acesso as viagens e pode se candidatar a uma vaga para a viagen, enquanto quem possui uma conta, tem acesso a funcionalidades de administrador, como criar viagens, e aprovar candidatos para elas.
+ <img src="https://user-images.githubusercontent.com/102265620/231241109-a3f2e423-f419-4b44-9e31-aaee863db09b.png" width="25" height="25"/> Utilizando uma API fornecida pela Labenu, o projeto simula um site de viagens espaciais, onde um usuário padrão que não possui uma conta, tem acesso as viagens e pode se candidatar a uma vaga para a viagen, enquanto quem possui uma conta, tem acesso a funcionalidades de administrador, como criar viagens, e aprovar candidatos para elas.
 </h4>
 <hr>
 <h3>
