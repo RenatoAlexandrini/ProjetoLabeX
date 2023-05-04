@@ -22,53 +22,61 @@ Projeto LabeX
 <img src="https://user-images.githubusercontent.com/102265620/229319779-62fac4c0-8813-492f-8dcd-e1a8d144eda5.png" width="30" height="30"/>
 Como Testar
 <br></br>
-:link: Link do surge:
+<img src="https://user-images.githubusercontent.com/102265620/236316697-abc7813e-67f9-48c0-92f4-61e0b560665b.png" width="20" height="20"/> Link do surge:
 
 https://divergent-attraction.surge.sh/ 
 <br></br>
-	:pouting_man: Login:  re.alexandrini@gmail.com
 
-:key: Senha: 123456
+<img src="https://user-images.githubusercontent.com/102265620/236317707-6443b59f-b5f5-476e-aae1-83e07da1437f.png" width="20" height="20"/>Login:  re.alexandrini@gmail.com
+
+<img src="https://user-images.githubusercontent.com/102265620/236317760-c964e0e2-c3e9-426b-9fb5-300747388ae1.png" width="20" height="20"/> Senha: 123456
 </h3>
 
+<br></br>
+<h3>
+<img src="https://user-images.githubusercontent.com/102265620/236321861-e3e1f25a-309d-439a-89b4-8a0827885e02.png" width="30" height="30"/> Ou teste localmente
+</h3>
+    
 ```
+- Abra o Git Bash em uma pasta e siga os seguintes comandos:
 - git clone https://github.com/RenatoAlexandrini/ProjetoLabeX
 - npm install
 - npm start
 ```
 <hr>
 <h3>
-<img src="https://user-images.githubusercontent.com/102265620/229322799-e589f75f-4075-4fec-8e41-9da4c6215312.png" width="30" height="30"/>
+<img src="https://user-images.githubusercontent.com/102265620/229322799-e589f75f-4075-4fec-8e41-9da4c6215312.png" width="35" height="35"/>
 Funcionalidades:
 <br></br>
 </h3>
+
 <h3>
-:man_astronaut: Página da lista das viagens para usuários não autenticados:
+<img src="https://user-images.githubusercontent.com/102265620/236326710-d42c0f4b-46dc-40fc-b77c-1701597293a9.png" width="25" height="25"/> Página da lista das viagens para usuários não autenticados:
 <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/229322998-8fb5590f-776c-409a-82e7-12141040f3bc.jpg" width="640" height="360"/>
 <br></br>
 <br></br>
-	:man_astronaut: Página de cadastrar para participar de uma viagem:
+<img src="https://user-images.githubusercontent.com/102265620/236326710-d42c0f4b-46dc-40fc-b77c-1701597293a9.png" width="25" height="25"/> Página de cadastrar para participar de uma viagem:
 <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/229323153-0f062649-8e78-4d4e-8bec-5cf2da47655e.jpg" width="640" height="360"/>
 <br></br>
 <br></br>
-	:man_astronaut: Página de Login:
+<img src="https://user-images.githubusercontent.com/102265620/236326710-d42c0f4b-46dc-40fc-b77c-1701597293a9.png" width="25" height="25"/> Página de Login:
 <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/229323199-ed938b74-2d58-4f4a-8624-74d08319e62a.jpg" width="640" height="360"/>
 <br></br>
 <br></br>
-:man_astronaut: Página de viagens para administradores autenticados:
+<img src="https://user-images.githubusercontent.com/102265620/236326710-d42c0f4b-46dc-40fc-b77c-1701597293a9.png" width="25" height="25"/> Página de viagens para administradores autenticados:
 <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/229323257-107139a8-7e29-4d90-8d62-c02730381cdf.jpg" width="640" height="360"/>
 <br></br>
 <br></br>
-:man_astronaut: Página de criar novas viagens
+<img src="https://user-images.githubusercontent.com/102265620/236326710-d42c0f4b-46dc-40fc-b77c-1701597293a9.png" width="25" height="25"/> Página de criar novas viagens
 <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/229323416-aa133a56-9777-4a62-b82a-b0c254e87886.jpg" width="640" height="360"/>
 <br></br>
 <br></br>
-:man_astronaut: Páginas de detalhes das viagens/ aprovar candidatos:
+<img src="https://user-images.githubusercontent.com/102265620/236326710-d42c0f4b-46dc-40fc-b77c-1701597293a9.png" width="25" height="25"/> Páginas de detalhes das viagens/ aprovar candidatos:
 <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/229323487-6f033982-db94-4fea-a21c-3c75177cd3a6.jpg" width="640" height="360"/>
 <img src="https://user-images.githubusercontent.com/102265620/229323495-633c4b9b-ac36-468f-a11d-f2ea22471ec2.jpg" width="640" height="360"/>
