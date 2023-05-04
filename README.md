@@ -84,16 +84,17 @@ Funcionalidades:
 <br></br>
 </h3>
 <hr>
-<h4>
-✔️ Técnicas e tecnologias utilizadas
+<h3>
+<img src="https://user-images.githubusercontent.com/102265620/236327932-d90d8834-d4ea-463f-9e12-ba86fac46486.png" width="35" height="35"/> Técnicas e tecnologias utilizadas
+ <br></br>
 
 - ``React-js``
 - ``CSS - Styled Componnets``
 - ``Javascript``
-</h4>
+</h3>
 <hr>
 <h3>
-:man_technologist:Autor
+<img src="https://user-images.githubusercontent.com/102265620/236328716-7a46e6d6-7427-403b-ad77-1af8f1d3cdef.png" width="25" height="25"/> Autor
 </h3>
 
 | [<img src="https://avatars.githubusercontent.com/u/102265620?v=4" width=115><br><sub>Renato Alexandrini</sub>](https://github.com/RenatoAlexandrini) | 
