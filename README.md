@@ -1,7 +1,7 @@
 <h1 align="center" >
-<img src="https://user-images.githubusercontent.com/102265620/229245936-a2b18ed3-8d60-4674-95fd-5a32a1dac9e6.png" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/102265620/229245936-a2b18ed3-8d60-4674-95fd-5a32a1dac9e6.png" width="50" height="50" align="center"/>
 Projeto LabeX
-<img src="https://user-images.githubusercontent.com/102265620/229246611-12698b16-a35f-4b37-a132-ebe011163257.png" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/102265620/229246611-12698b16-a35f-4b37-a132-ebe011163257.png" width="50" height="50" align="center"/>
 </h1>
 
 <p align="center">
